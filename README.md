@@ -8,8 +8,7 @@ Olá ! Bem vindo ao meu livro de receitas :wave:
 
 - torta
 
-
 -  Strogonoff de frango
 -  Pavê
 -  bolo
->>>>>>> 4df664cf190ccb3742bf4c8b63763c634f983216
+
