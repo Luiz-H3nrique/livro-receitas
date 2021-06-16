@@ -1,6 +1,6 @@
 # Strogonoff de Frango:ticket:
 
-### ingredites ###
+### ingredientes ###
 
 - 1 quilo de peito de framgo sem pele
 - 1 tablete de caldo de galinha
